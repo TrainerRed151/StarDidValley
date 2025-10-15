@@ -1,1 +1,1 @@
-AI daily jounal generator for Stardew Valley
+AI daily journal generator for Stardew Valley
